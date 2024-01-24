@@ -1,0 +1,514 @@
+full_name,age,position,yellow_cards_overall,red_cards_overall,assists_per_90_overall,goals_per_90_overall
+Tom Smith,30,Defender,3,1,0,0
+Diego Rico,29,Defender,1,0,0,0
+Jon Gorenc Stankovič,26,Defender,2,0,0,0.13
+Greg Cunningham,31,Defender,3,0,0,0
+Chris Löwe,33,Defender,2,0,0.09,0
+Ryan Sessegnon,22,Defender,0,0,0.23,0.08
+Tim Ream,35,Defender,1,0,0,0
+Denis Odoi,34,Defender,4,0,0.03,0
+Terence Kongolo,28,Defender,4,0,0.03,0.03
+Timothy Fosu-Mensah,24,Defender,3,0,0,0
+Jack Simpson,25,Defender,0,0,0,0
+Maxime Le Marchand,33,Defender,5,0,0.04,0
+Alfie Mawson,28,Defender,2,0,0,0
+Mason Holgate,26,Defender,1,0,0,0
+Joel Ward,32,Defender,1,0,0,0.16
+Joe Bryan,29,Defender,5,0,0.04,0
+Christopher Schindler,32,Defender,6,1,0,0.03
+Erik Durm,30,Defender,0,0,0.04,0
+Cyrus Christie,30,Defender,7,0,0.05,0
+Charlie Daniels,36,Defender,4,0,0,0.06
+Matt Targett,27,Defender,2,0,0.23,0.08
+Matthew Lowton,33,Defender,7,0,0,0
+Nathan Aké,27,Defender,3,0,0,0.11
+Stephan Lichtsteiner,38,Defender,3,0,0,0
+Nathaniel Clyne,31,Defender,2,0,0.07,0
+Steve Cook,31,Defender,3,0,0.03,0.03
+Adam Masina,28,Defender,5,0,0.09,0
+Calum Chambers,27,Defender,9,0,0,0.07
+Chris Mepham,24,Defender,1,0,0.11,0
+Eric Bailly,28,Defender,1,1,0,0
+Sean Morrison,31,Defender,6,0,0.09,0.03
+Simon Francis,37,Defender,1,0,0.15,0
+Callum Paterson,28,Defender,4,0,0.05,0.18
+Souleymane Bamba,37,Defender,7,0,0.04,0.15
+Florent Hadergjonaj,28,Defender,1,0,0,0
+Maya Yoshida,34,Defender,0,0,0.06,0
+Gaëtan Bong Songo,34,Defender,0,0,0,0
+Diogo Dalot,23,Defender,3,0,0.18,0
+Jack Stephens,28,Defender,4,0,0,0.05
+Jonjoe Kenny,25,Defender,1,0,0.11,0
+Martín Montoya,31,Defender,4,0,0.04,0
+Cedric Soares,31,Defender,4,0,0.12,0.06
+Bruno Écuélé Manga,34,Defender,0,0,0.03,0
+Mathias Jørgensen,32,Defender,6,0,0.04,0.13
+Angelo Ogbonna,34,Defender,2,0,0.05,0.05
+Wesley Hoedt,28,Defender,2,0,0,0
+James Tarkowski,29,Defender,8,0,0.03,0.09
+Lewis Dunk,30,Defender,7,1,0.03,0.06
+Craig Cathcart,33,Defender,2,0,0,0.09
+Ben Mee,33,Defender,9,0,0.05,0
+Ryan Bertrand,33,Defender,8,0,0,0.04
+Shane Duffy,30,Defender,5,1,0.03,0.15
+Ciaran Clark,33,Defender,1,0,0,0.32
+Joe Bennett,32,Defender,5,0,0.03,0
+Charlie Taylor,29,Defender,2,0,0.03,0
+Martin Kelly,32,Defender,2,0,0,0
+Leighton Baines,37,Defender,0,0,0,0
+Serge Aurier,29,Defender,1,0,0.32,0
+Bernardo,27,Defender,4,0,0.05,0
+Chris Smalling,32,Defender,1,0,0,0.04
+José Holebas,38,Defender,13,1,0.23,0.11
+Laurent Koscielny,37,Defender,1,0,0,0.2
+Matteo Darmian,32,Defender,0,0,0,0
+Christian Kabasele,31,Defender,4,1,0,0
+Pablo Zabaleta,37,Defender,4,0,0.04,0
+Jan Bednarek,26,Defender,7,0,0.04,0
+Leon Balogun,34,Defender,2,0,0,0.15
+Emerson Palmieri,28,Defender,0,0,0,0
+Yan Valery,23,Defender,5,1,0.05,0.1
+Adrian Mariappa,36,Defender,3,0,0,0
+DeAndre Yedlin,29,Defender,7,1,0.07,0.04
+Bruno Saltor Grau,42,Defender,2,0,0.08,0
+Federico Fernández,33,Defender,2,0,0.06,0
+Arthur Masuaku,28,Defender,2,0,0.05,0
+Victor Lindelöf,28,Defender,1,0,0.03,0.03
+Jeffrey Schlupp,29,Defender,1,0,0.05,0.22
+Adam Smith,31,Defender,6,1,0.04,0.04
+Daryl Janmaat,33,Defender,3,0,0.12,0
+Kurt Zouma,28,Defender,5,1,0.07,0.07
+Sokratis Papastathopoulos,34,Defender,12,0,0.08,0.04
+Aaron Cresswell,32,Defender,1,0,0.06,0
+Harry Maguire,29,Defender,7,1,0,0.1
+Luke Shaw,27,Defender,11,0,0.14,0.03
+Sead Kolašinac,29,Defender,5,0,0.24,0
+Shkodran Mustafi,30,Defender,9,0,0,0.07
+Danny Simpson,35,Defender,0,0,0,0
+Lee Peltier,35,Defender,4,0,0,0
+Kevin Long,32,Defender,0,0,0.18,0
+Paul Dummett,31,Defender,1,0,0,0
+Yerry Mina,28,Defender,3,0,0,0.1
+Fabián Balbuena,31,Defender,2,0,0,0.04
+Jannik Vestergaard,30,Defender,2,0,0,0
+Mamadou Sakho,32,Defender,2,0,0,0
+James Tomkins,33,Defender,6,0,0.04,0.04
+Phil Bardsley,37,Defender,9,0,0,0
+Hector Bellerin,27,Defender,3,0,0.29,0
+Ben Davies,29,Defender,2,0,0,0
+Jonny,28,Defender,6,0,0.03,0.03
+Issa Diop,25,Defender,4,0,0,0.03
+Ruben Vinagre,23,Defender,1,0,0,0
+Patrick van Aanholt,32,Defender,3,0,0.06,0.08
+Ricardo Pereira,29,Defender,7,0,0.17,0.06
+Phil Jones,30,Defender,1,0,0.07,0
+Michael Keane,29,Defender,2,0,0.06,0.03
+Wes Morgan,38,Defender,5,2,0,0.14
+Rob Holding,27,Defender,1,0,0,0
+Matt Doherty,30,Defender,5,0,0.14,0.11
+Ben Chilwell,25,Defender,4,0,0.11,0
+Willy Boly,31,Defender,3,1,0,0.11
+Lucas Digne,29,Defender,6,1,0.12,0.12
+Jamaal Lascelles,28,Defender,4,0,0.03,0
+Ryan Bennett,32,Defender,12,0,0,0.03
+Antonio Rüdiger,29,Defender,7,0,0,0.03
+Nacho Monreal,36,Defender,5,0,0.15,0.05
+Florian Lejeune,31,Defender,0,0,0,0
+Andreas Christensen,26,Defender,1,0,0,0
+Séamus Coleman,34,Defender,1,0,0.07,0.07
+Cesar Azpilicueta,33,Defender,4,0,0.13,0.03
+Jonny Evans,34,Defender,2,0,0,0.05
+Jan Vertonghen,35,Defender,5,1,0,0.05
+Javier Manquillo,28,Defender,2,0,0.25,0
+Antonio Valencia,37,Defender,2,0,0,0
+Juan Foyth,24,Defender,4,1,0,0.1
+David Luiz,35,Defender,3,0,0.06,0.08
+Davinson Sánchez,26,Defender,2,0,0.05,0.05
+Kyle Walker-Peters,25,Defender,1,0,0.72,0
+Scott Dann,35,Defender,1,0,0.14,0
+Fabian Schär,30,Defender,12,0,0.04,0.18
+Marcos Alonso,31,Defender,6,0,0.13,0.07
+Toby Alderweireld,33,Defender,3,0,0,0
+Kieran Trippier,32,Defender,2,0,0.12,0.04
+Danilo,31,Defender,1,0,0,0.11
+John Stones,28,Defender,1,0,0,0
+Caglar Söyüncü,26,Defender,1,0,0,0
+Dejan Lovren,33,Defender,1,0,0,0.09
+Aymeric Laporte,28,Defender,3,0,0.09,0.09
+Benjamin Mendy,28,Defender,1,0,0.5,0
+Danny Rose,32,Defender,5,0,0.15,0
+Kyle Walker,32,Defender,3,0,0.03,0.03
+Phil Jagielka,40,Defender,1,1,0,0.27
+Joel Matip,31,Defender,3,0,0,0.06
+Vincent Kompany,36,Defender,6,0,0,0.07
+Trent Alexander-Arnold,24,Defender,3,0,0.44,0.04
+Virgil van Dijk,31,Defender,1,0,0.05,0.11
+Nicolas Otamendi,34,Defender,1,0,0,0
+Andrew Robertson,28,Defender,4,0,0.31,0
+Joe Gomez,25,Defender,2,0,0,0
+Mohamed Salah,30,Forward,1,0,0.22,0.61
+Pierre-Emerick Aubameyang,33,Forward,0,0,0.16,0.73
+Sadio Mané,30,Forward,2,0,0.03,0.64
+Sergio Aguero,34,Forward,3,0,0.29,0.76
+Jamie Vardy,35,Forward,4,1,0.13,0.59
+Harry Kane,29,Forward,5,0,0.15,0.63
+Raheem Sterling,27,Forward,3,0,0.32,0.55
+Eden Hazard,31,Midfielder,2,0,0.46,0.49
+Callum Wilson,30,Forward,3,0,0.32,0.5
+Alexandre Lacazette,31,Forward,2,0,0.29,0.47
+Glenn Murray,39,Forward,5,0,0.04,0.47
+Gylfi Sigurdsson,33,Midfielder,3,0,0.17,0.37
+Paul Pogba,29,Midfielder,6,0,0.27,0.39
+Raúl Jiménez,31,Forward,4,0,0.2,0.37
+Richarlison,25,Forward,6,1,0.03,0.44
+Ashley Barnes,32,Forward,8,0,0.08,0.45
+Ayoze Perez,29,Forward,2,0,0.06,0.37
+Heung-Min Son,30,Forward,3,1,0.26,0.53
+Joshua King,30,Forward,3,0,0.09,0.36
+Luka Milivojević,31,Midfielder,10,0,0.05,0.32
+Roberto Firmino,31,Forward,0,0,0.21,0.41
+Romelu Lukaku,29,Forward,4,0,0,0.51
+Aleksandar Mitrović,28,Forward,7,0,0.08,0.3
+Rondon,33,Forward,1,0,0.24,0.38
+Anthony Martial,26,Forward,2,0,0.11,0.55
+Chris Wood,30,Forward,2,0,0.07,0.35
+Gerard Deulofeu,28,Forward,3,0,0.22,0.43
+Leroy Sané,26,Midfielder,1,0,0.48,0.48
+Lucas Moura,30,Midfielder,3,0,0,0.42
+Marcus Rashford,25,Forward,4,1,0.23,0.38
+Marko Arnautović,33,Forward,3,0,0.18,0.45
+Wilfried Zaha,29,Midfielder,10,1,0.15,0.3
+Diogo José Teixeira da Silva,25,Midfielder,11,0,0.19,0.34
+Felipe Anderson,29,Midfielder,3,0,0.12,0.27
+Troy Deeney,34,Forward,5,1,0.18,0.32
+Christian Eriksen,30,Midfielder,3,0,0.39,0.26
+Pedro Rodriguez,35,Midfielder,2,0,0.1,0.4
+Andre Gray,31,Forward,2,0,0.13,0.46
+Bernardo Silva,28,Midfielder,3,0,0.22,0.22
+Danny Ings,30,Forward,1,0,0.16,0.38
+David Brooks,25,Forward,3,0,0.2,0.28
+Gabriel Jesus,25,Forward,1,0,0.26,0.62
+James Maddison,25,Midfielder,5,1,0.22,0.22
+James Ward-Prowse,27,Midfielder,4,0,0,0.32
+Javier Hernandez,34,Forward,2,0,0.07,0.47
+Riyad Mahrez,31,Midfielder,0,0,0.27,0.47
+Ryan Fraser,28,Midfielder,2,0,0.4,0.2
+André Schürrle,31,Midfielder,2,0,0,0.33
+Andros Townsend,31,Midfielder,1,0,0.12,0.18
+David Silva,36,Midfielder,3,0,0.3,0.22
+Dominic Calvert-Lewin,25,Forward,3,0,0.1,0.3
+Henrikh Mkhitaryan,33,Midfielder,1,0,0.22,0.33
+İlkay Gündoğan,32,Midfielder,3,0,0.13,0.25
+Michail Antonio,32,Midfielder,3,0,0.17,0.26
+Nathan Redmond,28,Midfielder,3,0,0.11,0.16
+Roberto Pereyra,31,Forward,3,0,0.03,0.19
+Ruben Loftus-Cheek,26,Midfielder,0,0,0.18,0.55
+Xherdan Shaqiri,31,Midfielder,2,0,0.26,0.51
+Abdoulaye Doucouré,29,Midfielder,7,0,0.18,0.15
+Alvaro Morata,30,Forward,3,0,0,0.48
+Bobby Reid,29,Midfielder,0,0,0.13,0.32
+Dele Alli,26,Midfielder,4,0,0.15,0.25
+Gonzalo Higuain,34,Forward,0,0,0,0.41
+James Milner,36,Midfielder,7,1,0.2,0.25
+Mark Noble,35,Midfielder,7,1,0.19,0.19
+Mesut Özil,34,Midfielder,2,0,0.1,0.26
+Michy Batshuayi,29,Forward,0,0,0,0.6
+Ryan Guno Babel,35,Forward,3,0,0.21,0.36
+Shane Long,35,Forward,3,0,0.07,0.35
+Theo Walcott,33,Forward,1,0,0.08,0.21
+Víctor Camarasa,28,Midfielder,6,0,0.14,0.17
+Aaron Ramsey,31,Midfielder,0,0,0.41,0.27
+Demarai Gray,26,Midfielder,2,0,0.05,0.18
+Erik Lamela,30,Midfielder,2,0,0.19,0.37
+Granit Xhaka,30,Midfielder,10,0,0.07,0.14
+Jesse Lingard,29,Midfielder,3,0,0.11,0.22
+Karlan Ahearne-Grant,24,Forward,0,0,0,0.41
+N'Golo Kanté,31,Midfielder,3,0,0.12,0.12
+Nathaniel Mendez-Laing,30,Midfielder,0,0,0.09,0.37
+Pierre-Emile Højbjerg,27,Midfielder,10,2,0.1,0.13
+Rúben Neves,25,Midfielder,8,0,0.09,0.12
+Aaron Mooy,32,Midfielder,4,0,0.04,0.12
+Aboubakar Kamara,27,Forward,2,0,0,0.39
+Alex Iwobi,26,Forward,0,0,0.27,0.14
+Cenk Tosun,31,Forward,3,0,0.26,0.26
+David Junior Hoilett,32,Forward,4,0,0.04,0.13
+Divock Origi,27,Forward,0,0,0.25,0.74
+Dwight McNeil,22,Forward,2,0,0.28,0.17
+Eric Dier,28,Midfielder,4,0,0,0.18
+Florin Andone,29,Forward,5,0,0,0.31
+Georginio Wijnaldum,31,Midfielder,3,0,0,0.1
+Ivan Ricardo Neves Abreu Cavaleiro,29,Forward,1,0,0.13,0.4
+James McArthur,35,Midfielder,7,0,0.18,0.09
+Jeff Hendrick,30,Midfielder,4,0,0,0.13
+Johann Berg Guðmunds­son,32,Midfielder,2,0,0.31,0.15
+Josh Murphy,27,Forward,2,0,0.1,0.15
+Juan Mata,34,Midfielder,3,0,0.14,0.21
+Lucas Perez,34,Forward,0,0,0,0.58
+Pascal Groß,31,Midfielder,1,0,0.14,0.14
+Ross Barkley,28,Midfielder,1,0,0.36,0.22
+Sam Vokes,33,Forward,0,0,0,0.3
+Stuart Armstrong,30,Midfielder,2,0,0.13,0.19
+Willian,34,Forward,2,0,0.26,0.13
+Youri Tielemans,25,Midfielder,2,0,0.33,0.25
+Alex Pritchard,29,Midfielder,2,0,0,0.09
+Ander Herrera,33,Midfielder,4,0,0.19,0.13
+Andriy Yarmolenko,33,Forward,2,0,0,0.39
+Anthony Knockaert,30,Midfielder,5,1,0.29,0.1
+Ashley Westwood,32,Midfielder,5,0,0.22,0.06
+Ashley Young,37,Midfielder,10,1,0.07,0.07
+Charlie Austin,33,Forward,1,0,0.18,0.18
+Dan Gosling,32,Midfielder,8,0,0.05,0.1
+Daniel Sturridge,33,Forward,1,0,0.18,0.36
+Declan Rice,23,Midfielder,4,0,0,0.06
+Jefferson Lerma,28,Midfielder,12,0,0,0.07
+Jorginho,30,Midfielder,8,0,0,0.06
+Joselu,32,Forward,1,0,0,0.31
+Junior Stanislas,32,Midfielder,1,0,0.26,0.18
+Jürgen Locadia,28,Forward,1,0,0,0.15
+Kevin De Bruyne,31,Midfielder,2,0,0.18,0.18
+Leander Dendoncker,27,Midfielder,1,0,0,0.12
+Lucas Torreira,26,Midfielder,8,1,0.08,0.08
+Marc Albrighton,32,Midfielder,3,0,0.11,0.11
+Matt Ritchie,33,Midfielder,9,0,0.24,0.06
+Naby Keïta,27,Midfielder,0,0,0.06,0.13
+Olivier Giroud,36,Forward,1,0,0.43,0.22
+Philip Billing,26,Midfielder,7,0,0,0.08
+Robert Snodgrass,35,Midfielder,10,0,0.2,0.08
+Romain Saïss,32,Midfielder,7,0,0,0.16
+Scott McTominay,25,Midfielder,1,0,0,0.21
+Steve Mounié,28,Forward,2,1,0.15,0.1
+Wilfred Ndidi,25,Midfielder,8,0,0,0.05
+Will Hughes,27,Midfielder,5,0,0.15,0.07
+Aaron Lennon,35,Midfielder,1,0,0.07,0.07
+Adama Traoré,26,Midfielder,1,0,0.1,0.1
+Ainsley Maitland-Niles,25,Midfielder,3,1,0.09,0.09
+Alexis Sanchez,33,Forward,3,0,0.31,0.1
+André Gomes,29,Midfielder,7,0,0.05,0.05
+Andreas Pereira,26,Midfielder,5,0,0.15,0.15
+Aron Einar Gunnarsson,33,Midfielder,5,0,0.04,0.04
+Ben Gibson,29,Defender,1,0,0,1.43
+Beram Kayal,34,Midfielder,4,0,0.1,0.1
+Bernard Anício Caldeira Duarte,30,Midfielder,5,0,0.13,0.04
+Christian Atsu Twasam,30,Midfielder,2,0,0,0.06
+Christian Benteke,31,Forward,1,0,0.11,0.11
+Dale Stephens,33,Midfielder,7,1,0.04,0.04
+Danny Ward,31,Forward,0,0,0,0.2
+Danny Welbeck,31,Forward,0,0,0.61,0.61
+Davy Pröpper,31,Midfielder,2,0,0.04,0.04
+Domingos Quina,22,Midfielder,0,0,0,0.27
+Edward Nketiah,23,Forward,0,0,0,1.45
+Étienne Capoue,34,Midfielder,15,1,0.09,0.03
+Fabinho,29,Midfielder,6,0,0.09,0.04
+Fernandinho,37,Midfielder,5,0,0.11,0.04
+Fernando Llorente Torres,37,Forward,2,0,0.53,0.13
+Floyd Ayité,33,Midfielder,0,0,0,0.19
+Fred,29,Midfielder,2,0,0.09,0.09
+Harry Winks,26,Midfielder,4,0,0,0.06
+Harvey Barnes,24,Midfielder,0,0,0.18,0.09
+Hélder Wander Sousa Azevedo Costa,28,Midfielder,3,0,0.13,0.07
+Isaac Hayden,27,Midfielder,4,1,0.19,0.05
+Isaac Mbenza,26,Forward,1,0,0.09,0.09
+Isaac Success,26,Forward,4,0,0.09,0.09
+Jack Cork,33,Midfielder,6,0,0.05,0.03
+Jean Michau00ebl Seri,31,Midfielder,6,0,0.08,0.04
+João Moutinho,36,Midfielder,4,0,0.24,0.03
+Jonjo Shelvey,30,Midfielder,1,0,0.1,0.1
+Jordan Ayew,31,Forward,3,0,0.15,0.08
+Jordan Henderson,32,Midfielder,3,1,0.14,0.05
+Jordon Ibe,26,Midfielder,1,0,0.11,0.11
+Juninho Bacuna,25,Midfielder,4,0,0,0.06
+Kadeem Harris,29,Midfielder,1,0,0,0.25
+Kelechi Iheanacho,26,Forward,2,0,0.29,0.1
+Ken Sema,29,Midfielder,1,0,0.24,0.12
+Kenneth Dahrup Zohorè,28,Forward,1,0,0.12,0.12
+Kiko Femenía,31,Midfielder,1,0,0.04,0.04
+Luciano Vietto,28,Forward,1,0,0.37,0.09
+Lys Mousset,26,Forward,1,0,0,0.26
+Manolo Gabbiadini,30,Forward,0,0,0,0.19
+Manuel Lanzini,29,Midfielder,2,0,0.13,0.13
+Mario Lemina,29,Midfielder,5,0,0.06,0.06
+Matěj Vydra,30,Forward,1,0,0.29,0.29
+Max Meyer,27,Midfielder,3,0,0.13,0.06
+Michael Obafemi,22,Forward,1,0,0.67,0.67
+Nemanja Matić,34,Midfielder,8,1,0,0.04
+Oriol Romeu,31,Midfielder,11,0,0,0.04
+Phil Foden,22,Midfielder,0,0,0,0.28
+Rachid Ghezzal,30,Forward,3,0,0,0.12
+Robert Kenedy Nunes do Nascimento,26,Midfielder,1,0,0.07,0.07
+Ryan Fredericks,30,Midfielder,5,0,0,0.08
+Sean Longstaff,25,Midfielder,2,0,0,0.13
+Solly March,28,Midfielder,1,0,0.18,0.04
+Tom Cairney,31,Midfielder,0,0,0.04,0.04
+Tom Cleverley,33,Midfielder,2,0,0,0.19
+Victor Wanyama,31,Midfielder,2,0,0,0.18
+Yoshinori Muto,30,Forward,1,0,0,0.17
+Aaron Rowe,22,Forward,0,0,0,0
+Aaron Wan-Bissaka,24,Midfielder,5,1,0.09,0
+Abdelhamid Sabiri,25,Midfielder,0,0,0,0
+Adalberto Peñaranda Maestre,25,Forward,0,0,0,0
+Adam Lallana,34,Midfielder,1,0,0,0
+Adama Diakhaby,26,Forward,1,0,0,0
+Ademola Lookman,25,Forward,0,0,0.3,0
+Adrien Sebastian Perruchet Silva,33,Midfielder,0,0,0,0
+Alberto Moreno,30,Defender,0,0,0,0
+Alex Oxlade-Chamberlain,29,Midfielder,0,0,0,0
+Alexander Sørloth,26,Forward,0,0,0,0
+Alexandre Nascimento Costa Silva,25,Forward,0,0,0,0
+Alfie Jones,25,Defender,0,0,0,0
+Ali Koiki,22,Defender,0,0,0,0
+Alireza Jahanbakhsh,29,Forward,2,0,0,0
+André-Frank Zambo Anguissa,26,Midfielder,3,1,0,0
+Andrew Surman,36,Midfielder,2,0,0,0
+Andy Carroll,33,Forward,2,0,0,0
+Angel Gomes,22,Midfielder,0,0,0,0
+Anthony Driscoll-Glennon,22,Defender,0,0,0,0
+Antonio Barreca,27,Defender,0,0,0,0
+Bakary Sako,34,Midfielder,0,0,0,0
+Ben Johnson,22,Forward,0,0,0,0
+Ben White,25,Defender,0,0,0,0
+Ben Wilmot,23,Defender,0,0,0,0
+Bright Enobakhare,24,Forward,0,0,0,0
+Callum Hudson-Odoi,21,Midfielder,0,0,0.23,0
+Callum Roberts,25,Forward,0,0,0,0
+Callum Slattery,23,Midfielder,0,0,0,0
+Cameron John,23,Defender,0,0,0,0
+Carl Jenkinson,30,Defender,0,0,0,0
+Carlos Sánchez,36,Midfielder,0,0,0,0
+Cesc Fabregas,35,Midfielder,1,0,0,0
+Cheikhou Kouyaté,32,Midfielder,3,0,0.09,0
+Christian Fuchs,36,Defender,0,0,0,0
+Collin Quaner,31,Forward,0,0,0,0
+Connor Wickham,29,Forward,0,0,1.48,0
+Conor Coady,29,Midfielder,5,0,0,0
+Conor Coventry,22,Midfielder,0,0,0,0
+Curtis Jones,21,Midfielder,0,0,0,0
+Dan Burn,30,Defender,0,0,0,0
+Daniel Amartey,27,Midfielder,2,0,0,0
+Daniel Williams,33,Midfielder,1,0,0,0
+Danny Drinkwater,32,Midfielder,0,0,0,0
+Davide Zappacosta,30,Defender,0,0,0,0
+Demeaco Duhaney,24,Defender,0,0,0,0
+Denis Suárez,28,Midfielder,0,0,0,0
+Dominic Solanke,25,Forward,0,0,0.26,0
+Elias Kachunga,30,Forward,2,0,0,0
+Emerson Hyndman,26,Midfielder,0,0,0,0
+Emile Smith Rowe,22,Midfielder,0,0,0,0
+Ethan Ampadu,22,Midfielder,0,0,0,0
+Fabian Delph,32,Midfielder,2,1,0.12,0
+Faustino Marcos Alberto Rojo,32,Defender,2,0,0,0
+Fousseni Diabaté,27,Midfielder,0,0,0,0
+Gary Cahill,36,Defender,0,0,0,0
+Gary Madine,32,Forward,0,0,0,0
+George Marsh,23,Midfielder,0,0,0,0
+Georges-Kevin N'Koudou Mbida,27,Forward,0,0,22.5,0
+Grady Diangana,24,Midfielder,0,0,0.15,0
+Hamza Choudhury,25,Midfielder,0,0,0,0
+Harry Arter,32,Midfielder,10,0,0.04,0
+Håvard Nordtveit,32,Midfielder,0,0,0.25,0
+Ibrahima Cissé,28,Midfielder,0,0,0,0
+Idrissa Gueye,33,Midfielder,6,0,0.06,0
+Jack Wilshere,30,Midfielder,2,0,0.23,0
+Jacob Murphy,27,Midfielder,0,0,0.3,0
+Jaïro Riedewald,26,Defender,0,0,0,0
+James Garner,21,Defender,0,0,0,0
+James McCarthy,31,Midfielder,0,0,0,0
+Jamie Sterry,26,Defender,0,0,0,0
+Jason Puncheon,36,Midfielder,1,0,0,0
+Jayson Molumby,23,Midfielder,0,0,0,0
+Jazz Richards,31,Defender,0,0,0,0
+Jermain Defoe,40,Forward,0,0,0,0
+Joe Powell,24,Forward,0,0,0,0
+Joe Ralls,29,Midfielder,5,1,0,0
+Jonathan Hogg,33,Midfielder,9,1,0.04,0
+Jonathan Walters,39,Forward,0,0,0,0
+Jose Izquierdo,30,Forward,1,0,0.11,0
+Joseph Willock,23,Midfielder,0,0,0,0
+Josh Benson,22,Midfielder,0,0,0,0
+Josh Knight,25,Defender,0,0,0,0
+Joshua Sims,25,Midfielder,0,0,0.43,0
+Kayne Ramsey,22,Midfielder,0,0,0,0
+Kazaiah Sterling,23,Forward,0,0,0,0
+Kelland Watts,23,Midfielder,0,0,0,0
+Kevin McDonald,33,Midfielder,6,1,0,0
+Ki Sung-yueng,33,Midfielder,2,0,0.07,0
+Kieran Dowell,25,Midfielder,0,0,0,0
+Konstantinos Mavropanos,24,Defender,1,0,0,0
+Kortney Hause,27,Defender,0,0,0,0
+Kyle Taylor,23,Midfielder,0,0,0,0
+Laurent Depoitre,33,Forward,1,0,0.08,0
+Lazar Marković,28,Midfielder,0,0,0,0
+Leandro Bacuna,31,Midfielder,2,0,0,0
+Leonardo Bonatini Lohner Maia,28,Forward,0,0,0.7,0
+Lewis Cass,22,Defender,0,0,0,0
+Lewis Cook,25,Midfielder,2,0,0,0
+Loïc Damour,31,Midfielder,0,0,0,0
+Luca de la Torre,24,Midfielder,0,0,0,0
+Luke Amos,25,Midfielder,0,0,0,0
+Luke Dreher,23,Midfielder,0,0,0,0
+Marc Guehi,22,Defender,0,0,0,0
+Marc Navarro Ceciliano,27,Defender,0,0,0,0
+Marc Pugh,35,Midfielder,0,0,0,0
+Markus Suttner,35,Defender,0,0,0,0
+Marouane Fellaini,34,Midfielder,1,0,0.12,0
+Mason Greenwood,21,Midfielder,0,0,0,0
+Mateo Kovačić,28,Midfielder,3,0,0.1,0
+Matt Butcher,25,Midfielder,0,0,0,0
+Matteo Guendouzi,23,Midfielder,9,0,0,0
+Matthew Connolly,35,Defender,0,0,0,0
+Matty Daly,21,Midfielder,0,0,0,0
+Max Harrison Sanders,23,Midfielder,0,0,0,0
+Max Kilman,25,Defender,0,0,0,0
+Miguel Almirón,28,Midfielder,0,0,0,0
+Miguel Ángel Britos Cabrera,37,Defender,0,0,0,0
+Mohamed Diamé,35,Midfielder,3,0,0,0
+Mohamed Elneny,30,Midfielder,0,0,0,0
+Mohamed Elyounoussi,28,Midfielder,0,0,0,0
+Morgan Gibbs-White,22,Midfielder,1,0,0.14,0
+Morgan Schneiderlin,32,Midfielder,2,0,0.11,0
+Moussa Dembele,35,Midfielder,1,0,0,0
+Moussa Sissoko,33,Midfielder,2,0,0.12,0
+Nampalys Mendy,30,Midfielder,5,0,0,0
+Nathan Holland,24,Midfielder,0,0,0,0
+Nathaniel Chalobah,27,Midfielder,2,0,0,0
+Neeskens Kebano,30,Midfielder,0,0,0,0
+Nikola Tavares,23,Defender,0,0,0,0
+Nnamdi Ofoborh,22,Midfielder,0,0,0,0
+Oleksandr Zinchenko,25,Midfielder,1,0,0.23,0
+Oliver Skipp,22,Midfielder,0,0,0,0
+Oumar Niasse,32,Forward,0,0,0,0
+Pape N'Diaye Souaré,32,Defender,0,0,0,0
+Pedro Obiang,30,Midfielder,0,0,0.08,0
+Peter Crouch,41,Forward,1,0,0,0
+Philippe Sandler,25,Defender,0,0,0,0
+Rafael Euclides Soares Camacho,22,Midfielder,0,0,0,0
+Rajiv van La Parra,31,Midfielder,0,0,0,0
+Ramadan Sobhi,25,Forward,0,0,0,0
+Rhys Healey,27,Forward,0,0,0,0
+Robbie Brady,30,Midfielder,4,1,0.13,0
+Ryan Giles,22,Midfielder,0,0,0,0
+Sam Gallagher,27,Forward,0,0,0,0
+Sam Surridge,24,Forward,0,0,0,0
+Sam Woods,24,Defender,0,0,0,0
+Samir Nasri,35,Midfielder,0,0,0.73,0
+Sandro Ramirez,27,Forward,0,0,0,0
+Sebastian Prödl,35,Defender,0,0,0,0
+Shinji Okazaki,36,Forward,0,0,0.33,0
+Stefan Marius Johansen,31,Midfielder,4,0,0,0
+Stefano Okaka,33,Forward,1,0,0,0
+Stephen Ward,37,Defender,1,0,0,0
+Steven Davis,37,Midfielder,0,0,0.94,0
+Steven Defour,34,Midfielder,0,0,0,0
+Sullay Kaikai,27,Midfielder,0,0,0,0
+Tahith Chong,22,Forward,0,0,0,0
+Timothy Eyoma,22,Defender,0,0,0,0
+Tom Davies,24,Midfielder,3,0,0,0
+Tyias Browning,28,Defender,0,0,0,0
+Tyreke Johnson,24,Defender,0,0,0,0
+Tyrone Mings,29,Defender,0,0,0,0
+Vicente Iborra De La Fuente,34,Midfielder,0,0,0,0
+Victor Moses,31,Midfielder,0,0,0,0
+Viktor Gyökeres,24,Forward,0,0,0,0
+Vincent Janssen,28,Forward,0,0,0,0
+Yves Bissouma,26,Midfielder,5,0,0,0
+Zechariah Medley,22,Defender,0,0,0,0
+Zeze  Steven Sessegnon,22,Defender,0,0,0,0
